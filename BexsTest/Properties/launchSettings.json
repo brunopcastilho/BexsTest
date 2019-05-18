@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BexsTest": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Bruno\\Programacao\\repos\\BexsTest\\bexs\\input-file.txt"
+    }
+  }
+}
